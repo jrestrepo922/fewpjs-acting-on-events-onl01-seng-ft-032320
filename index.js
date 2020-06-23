@@ -1,4 +1,5 @@
 // Your code here
+<<<<<<< HEAD
 let dodger = document.getElementById("dodger");
 dodger.style.backgroundColor = "#FF69B4"
 
@@ -30,3 +31,7 @@ document.addEventListener("keydown", function(e) {
   }
 });
 
+=======
+let dodger = document.getElemntById("dodger");
+dodger.style.backgroundColor = "#FF69B4"
+>>>>>>> 4f565efea4f0e64843a8fe75c83f59098cce07d6
